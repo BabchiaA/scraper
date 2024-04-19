@@ -4,7 +4,7 @@ This FastAPI application provides an API endpoint `/scrape_fb/` to scrape Facebo
 
 ## Quickstart - without Docker
 
-Pour cloner le projet et installer les dépendances:
+To clone the project and install the dependencies:
 ```
 git clone https://github.com/BabchiaA/facebook-scraper.git
 pip install -r requirements.txt
